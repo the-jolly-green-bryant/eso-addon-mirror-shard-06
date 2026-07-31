@@ -1,0 +1,40 @@
+{
+  "archive_path": "addons/Iriya_Altmer/GoA_ESO_UA__4702",
+  "archive_repository": "the-jolly-green-bryant/eso-addon-mirror-shard-06",
+  "archived": true,
+  "author": "Iriya_Altmer",
+  "canonical_id": "esoui:4702",
+  "category_id": "163",
+  "compatibility": [
+    {
+      "name": "Season Zero Pt.2",
+      "version": "12.0.0"
+    }
+  ],
+  "content_id": "esoui:4702",
+  "deleted": false,
+  "directories": [
+    "ESO_UA_GoA",
+    "gamedata",
+    "EsoUI"
+  ],
+  "download_url": "https://www.esoui.com/downloads/dl4702/",
+  "fingerprint": "8f1bf7e70c9fe0c990dba5ed962dade5c1328c6da0a10b66417db89c40425bfd",
+  "images": [
+    "https://cdn-eso.mmoui.com/preview/pvw16677.png"
+  ],
+  "platform": "pc",
+  "published": true,
+  "shard": "06",
+  "source": "esoui",
+  "source_id": "4702",
+  "source_url": "https://www.esoui.com/downloads/info4702-GoA_ESO_UA.html",
+  "stats": {
+    "downloads": 176,
+    "favorites": 0,
+    "monthly_downloads": 159
+  },
+  "title": "GoA_ESO_UA",
+  "updated_at": 1785489339000,
+  "version": "43.89"
+}
